@@ -114,6 +114,6 @@ This project focuses on detecting spam emails using a machine learning model imp
 
 ## Credits
 
-- **Dataset**: Source not mentioned (ensure proper citation if publicly available).
+- **Dataset**: from Kaggle.
 - **Libraries Used**: TensorFlow, scikit-learn, pandas.
 
