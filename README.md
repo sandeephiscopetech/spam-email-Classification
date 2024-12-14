@@ -592,7 +592,7 @@ This project focuses on detecting spam emails using a machine learning model imp
 - **Dataset**: Source not mentioned (ensure proper citation if publicly available).
 - **Libraries Used**: TensorFlow, scikit-learn, pandas.
 
-##Output
+## Output
 ![output](https://github.com/user-attachments/assets/d5ddfca7-26a6-4690-a9a7-f0b5d1720d29)
 
 
